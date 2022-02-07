@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.almedina.gui","l":"MainWindow.CustomPanel"},{"p":"com.almedina.gui","l":"MainWindow.CustomPanel.GameKeyAdapter"},{"p":"com.almedina.konzola","l":"Konzola"},{"p":"com.almedina.gui","l":"MainWindow"},{"p":"com.almedina","l":"Snake"},{"p":"com.almedina.logika","l":"SnakeLogic"}]

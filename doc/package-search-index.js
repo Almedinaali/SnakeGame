@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.almedina"},{"l":"com.almedina.gui"},{"l":"com.almedina.konzola"},{"l":"com.almedina.logika"}]
